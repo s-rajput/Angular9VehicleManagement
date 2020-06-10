@@ -36,7 +36,7 @@ namespace VehicleAdmin.Tests.Api
          
 
         [TestMethod]
-        public async Task Payment_for_JohnDoe_withAnualSalary_60050_super_9()
+        public async Task GetVehiclesTest()
         {
              
             //Act
