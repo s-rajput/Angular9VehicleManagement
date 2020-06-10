@@ -1,0 +1,12 @@
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\Services\VehicleAdmin\Infrastructure\VehicleAdmin.Infrastructure\bin\Debug\netcoreapp3.1\VehicleAdmin.Infrastructure.deps.json
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\Services\VehicleAdmin\Infrastructure\VehicleAdmin.Infrastructure\bin\Debug\netcoreapp3.1\VehicleAdmin.Infrastructure.dll
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\Services\VehicleAdmin\Infrastructure\VehicleAdmin.Infrastructure\bin\Debug\netcoreapp3.1\VehicleAdmin.Infrastructure.pdb
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\Services\VehicleAdmin\Infrastructure\VehicleAdmin.Infrastructure\bin\Debug\netcoreapp3.1\VehicleAdmin.DomainCore.dll
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\Services\VehicleAdmin\Infrastructure\VehicleAdmin.Infrastructure\bin\Debug\netcoreapp3.1\VehicleAdmin.DomainCore.pdb
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\Services\VehicleAdmin\Infrastructure\VehicleAdmin.Infrastructure\obj\Debug\netcoreapp3.1\VehicleAdmin.Infrastructure.csprojAssemblyReference.cache
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\Services\VehicleAdmin\Infrastructure\VehicleAdmin.Infrastructure\obj\Debug\netcoreapp3.1\VehicleAdmin.Infrastructure.csproj.CoreCompileInputs.cache
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\Services\VehicleAdmin\Infrastructure\VehicleAdmin.Infrastructure\obj\Debug\netcoreapp3.1\VehicleAdmin.Infrastructure.AssemblyInfoInputs.cache
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\Services\VehicleAdmin\Infrastructure\VehicleAdmin.Infrastructure\obj\Debug\netcoreapp3.1\VehicleAdmin.Infrastructure.AssemblyInfo.cs
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\Services\VehicleAdmin\Infrastructure\VehicleAdmin.Infrastructure\obj\Debug\netcoreapp3.1\VehicleAdmin.Infrastructure.csproj.CopyComplete
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\Services\VehicleAdmin\Infrastructure\VehicleAdmin.Infrastructure\obj\Debug\netcoreapp3.1\VehicleAdmin.Infrastructure.dll
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\Services\VehicleAdmin\Infrastructure\VehicleAdmin.Infrastructure\obj\Debug\netcoreapp3.1\VehicleAdmin.Infrastructure.pdb

@@ -1,0 +1,92 @@
+D:\Developments\VSO\BlackBox\Excerice\HR\src\ApiGateways\OcelotAPIGateway\bin\Debug\netcoreapp2.2\OcelotAPIGateway.deps.json
+D:\Developments\VSO\BlackBox\Excerice\HR\src\ApiGateways\OcelotAPIGateway\bin\Debug\netcoreapp2.2\OcelotAPIGateway.runtimeconfig.json
+D:\Developments\VSO\BlackBox\Excerice\HR\src\ApiGateways\OcelotAPIGateway\bin\Debug\netcoreapp2.2\OcelotAPIGateway.runtimeconfig.dev.json
+D:\Developments\VSO\BlackBox\Excerice\HR\src\ApiGateways\OcelotAPIGateway\bin\Debug\netcoreapp2.2\OcelotAPIGateway.dll
+D:\Developments\VSO\BlackBox\Excerice\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.csprojAssemblyReference.cache
+D:\Developments\VSO\BlackBox\Excerice\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.csproj.CoreCompileInputs.cache
+D:\Developments\VSO\BlackBox\Excerice\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.RazorAssemblyInfo.cache
+D:\Developments\VSO\BlackBox\Excerice\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.RazorAssemblyInfo.cs
+D:\Developments\VSO\BlackBox\Excerice\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.AssemblyInfoInputs.cache
+D:\Developments\VSO\BlackBox\Excerice\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.AssemblyInfo.cs
+D:\Developments\VSO\BlackBox\Excerice\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.RazorTargetAssemblyInfo.cache
+D:\Developments\VSO\BlackBox\Excerice\HR\src\ApiGateways\OcelotAPIGateway\bin\Debug\netcoreapp2.2\OcelotAPIGateway.pdb
+D:\Developments\VSO\BlackBox\Excerice\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.dll
+D:\Developments\VSO\BlackBox\Excerice\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.pdb
+D:\Developments\HR\src\ApiGateways\OcelotAPIGateway\bin\Debug\netcoreapp2.2\OcelotAPIGateway.deps.json
+D:\Developments\HR\src\ApiGateways\OcelotAPIGateway\bin\Debug\netcoreapp2.2\OcelotAPIGateway.runtimeconfig.json
+D:\Developments\HR\src\ApiGateways\OcelotAPIGateway\bin\Debug\netcoreapp2.2\OcelotAPIGateway.runtimeconfig.dev.json
+D:\Developments\HR\src\ApiGateways\OcelotAPIGateway\bin\Debug\netcoreapp2.2\OcelotAPIGateway.dll
+D:\Developments\HR\src\ApiGateways\OcelotAPIGateway\bin\Debug\netcoreapp2.2\OcelotAPIGateway.pdb
+D:\Developments\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.csprojAssemblyReference.cache
+D:\Developments\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.csproj.CoreCompileInputs.cache
+D:\Developments\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.RazorAssemblyInfo.cache
+D:\Developments\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.RazorAssemblyInfo.cs
+D:\Developments\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.AssemblyInfoInputs.cache
+D:\Developments\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.AssemblyInfo.cs
+D:\Developments\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.RazorTargetAssemblyInfo.cache
+D:\Developments\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.dll
+D:\Developments\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.pdb
+D:\Developments\New folder\HR\HR\src\ApiGateways\OcelotAPIGateway\bin\Debug\netcoreapp2.2\OcelotAPIGateway.deps.json
+D:\Developments\New folder\HR\HR\src\ApiGateways\OcelotAPIGateway\bin\Debug\netcoreapp2.2\OcelotAPIGateway.runtimeconfig.json
+D:\Developments\New folder\HR\HR\src\ApiGateways\OcelotAPIGateway\bin\Debug\netcoreapp2.2\OcelotAPIGateway.runtimeconfig.dev.json
+D:\Developments\New folder\HR\HR\src\ApiGateways\OcelotAPIGateway\bin\Debug\netcoreapp2.2\OcelotAPIGateway.dll
+D:\Developments\New folder\HR\HR\src\ApiGateways\OcelotAPIGateway\bin\Debug\netcoreapp2.2\OcelotAPIGateway.pdb
+D:\Developments\New folder\HR\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.csprojAssemblyReference.cache
+D:\Developments\New folder\HR\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.csproj.CoreCompileInputs.cache
+D:\Developments\New folder\HR\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.RazorAssemblyInfo.cache
+D:\Developments\New folder\HR\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.RazorAssemblyInfo.cs
+D:\Developments\New folder\HR\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.AssemblyInfoInputs.cache
+D:\Developments\New folder\HR\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.AssemblyInfo.cs
+D:\Developments\New folder\HR\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.RazorTargetAssemblyInfo.cache
+D:\Developments\New folder\HR\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.dll
+D:\Developments\New folder\HR\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.pdb
+D:\Developments\New folder\New folder\HR\HR\HR\src\ApiGateways\OcelotAPIGateway\bin\Debug\netcoreapp2.2\OcelotAPIGateway.deps.json
+D:\Developments\New folder\New folder\HR\HR\HR\src\ApiGateways\OcelotAPIGateway\bin\Debug\netcoreapp2.2\OcelotAPIGateway.runtimeconfig.json
+D:\Developments\New folder\New folder\HR\HR\HR\src\ApiGateways\OcelotAPIGateway\bin\Debug\netcoreapp2.2\OcelotAPIGateway.runtimeconfig.dev.json
+D:\Developments\New folder\New folder\HR\HR\HR\src\ApiGateways\OcelotAPIGateway\bin\Debug\netcoreapp2.2\OcelotAPIGateway.dll
+D:\Developments\New folder\New folder\HR\HR\HR\src\ApiGateways\OcelotAPIGateway\bin\Debug\netcoreapp2.2\OcelotAPIGateway.pdb
+D:\Developments\New folder\New folder\HR\HR\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.csproj.CoreCompileInputs.cache
+D:\Developments\New folder\New folder\HR\HR\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.RazorAssemblyInfo.cache
+D:\Developments\New folder\New folder\HR\HR\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.RazorAssemblyInfo.cs
+D:\Developments\New folder\New folder\HR\HR\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.AssemblyInfoInputs.cache
+D:\Developments\New folder\New folder\HR\HR\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.AssemblyInfo.cs
+D:\Developments\New folder\New folder\HR\HR\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.RazorTargetAssemblyInfo.cache
+D:\Developments\New folder\New folder\HR\HR\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.dll
+D:\Developments\New folder\New folder\HR\HR\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.pdb
+C:\work\Personal\Vehicle\HR\src\ApiGateways\OcelotAPIGateway\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\work\Personal\Vehicle\HR\src\ApiGateways\OcelotAPIGateway\bin\Debug\netcoreapp2.2\appsettings.json
+C:\work\Personal\Vehicle\HR\src\ApiGateways\OcelotAPIGateway\bin\Debug\netcoreapp2.2\configuration\configuration.json
+C:\work\Personal\Vehicle\HR\src\ApiGateways\OcelotAPIGateway\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\work\Personal\Vehicle\HR\src\ApiGateways\OcelotAPIGateway\bin\Debug\netcoreapp2.2\OcelotAPIGateway.deps.json
+C:\work\Personal\Vehicle\HR\src\ApiGateways\OcelotAPIGateway\bin\Debug\netcoreapp2.2\OcelotAPIGateway.runtimeconfig.json
+C:\work\Personal\Vehicle\HR\src\ApiGateways\OcelotAPIGateway\bin\Debug\netcoreapp2.2\OcelotAPIGateway.runtimeconfig.dev.json
+C:\work\Personal\Vehicle\HR\src\ApiGateways\OcelotAPIGateway\bin\Debug\netcoreapp2.2\OcelotAPIGateway.dll
+C:\work\Personal\Vehicle\HR\src\ApiGateways\OcelotAPIGateway\bin\Debug\netcoreapp2.2\OcelotAPIGateway.pdb
+C:\work\Personal\Vehicle\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.csproj.CoreCompileInputs.cache
+C:\work\Personal\Vehicle\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.RazorAssemblyInfo.cache
+C:\work\Personal\Vehicle\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.RazorAssemblyInfo.cs
+C:\work\Personal\Vehicle\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.AssemblyInfoInputs.cache
+C:\work\Personal\Vehicle\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.AssemblyInfo.cs
+C:\work\Personal\Vehicle\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.RazorTargetAssemblyInfo.cache
+C:\work\Personal\Vehicle\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.dll
+C:\work\Personal\Vehicle\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.pdb
+C:\work\Personal\Vehicle\HR\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.genruntimeconfig.cache
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\ApiGateways\OcelotAPIGateway\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\ApiGateways\OcelotAPIGateway\bin\Debug\netcoreapp2.2\appsettings.json
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\ApiGateways\OcelotAPIGateway\bin\Debug\netcoreapp2.2\configuration\configuration.json
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\ApiGateways\OcelotAPIGateway\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\ApiGateways\OcelotAPIGateway\bin\Debug\netcoreapp2.2\OcelotAPIGateway.deps.json
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\ApiGateways\OcelotAPIGateway\bin\Debug\netcoreapp2.2\OcelotAPIGateway.runtimeconfig.json
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\ApiGateways\OcelotAPIGateway\bin\Debug\netcoreapp2.2\OcelotAPIGateway.runtimeconfig.dev.json
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\ApiGateways\OcelotAPIGateway\bin\Debug\netcoreapp2.2\OcelotAPIGateway.dll
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\ApiGateways\OcelotAPIGateway\bin\Debug\netcoreapp2.2\OcelotAPIGateway.pdb
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.csproj.CoreCompileInputs.cache
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.RazorAssemblyInfo.cache
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.RazorAssemblyInfo.cs
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.AssemblyInfoInputs.cache
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.AssemblyInfo.cs
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.RazorTargetAssemblyInfo.cache
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.dll
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.pdb
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.genruntimeconfig.cache
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\ApiGateways\OcelotAPIGateway\obj\Debug\netcoreapp2.2\OcelotAPIGateway.csprojAssemblyReference.cache

@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>VehicleAdmin.API</name>
+    </assembly>
+    <members>
+        <member name="T:VehicleAdmin.API.Controllers.VehicleAdminController">
+             <summary>
+            Vehicles administration
+             </summary>  
+        </member>
+        <member name="M:VehicleAdmin.API.Controllers.VehicleAdminController.Get">
+             <summary>
+            Ping function
+             </summary>  
+        </member>
+        <member name="M:VehicleAdmin.API.Controllers.VehicleAdminController.#ctor(MediatR.IMediator,VehicleAdmin.Application.Queries.IVehicleQueries)">
+             <summary>
+            Constructor injection
+             </summary>  
+        </member>
+        <member name="M:VehicleAdmin.API.Controllers.VehicleAdminController.CreateVehiclesAsync(VehicleAdmin.Application.Commands.Payments.CreateVehicleBulkCmd)">
+             <summary>
+            Create Bulk vehicles
+             </summary>  
+        </member>
+        <member name="M:VehicleAdmin.API.Controllers.VehicleAdminController.CreateVehicleAsync(Newtonsoft.Json.Linq.JObject)">
+             <summary>
+            Create a new vehicles
+             </summary>  
+        </member>
+        <member name="M:VehicleAdmin.API.Controllers.VehicleAdminController.GetAllVehiclesAsync">
+             <summary>
+            Get all the vehicles
+             </summary>  
+        </member>
+        <member name="M:VehicleAdmin.API.Controllers.VehicleAdminController.GetAllVehicleTypesAsync">
+             <summary>
+            Get all vehicle types
+             </summary>  
+        </member>
+        <member name="T:VehicleAdmin.API.Controllers.VehicleExample">
+             <summary>
+            Vehicle create sample
+             </summary>  
+        </member>
+        <member name="M:VehicleAdmin.API.Controllers.VehicleExample.GetExamples">
+             <summary>
+            Create vehicles example
+             </summary>  
+        </member>
+        <member name="T:VehicleAdmin.API.Controllers.CreateVehicleBulkCmdExample">
+             <summary>
+            Create Bulk vehicles sample
+             </summary>  
+        </member>
+        <member name="M:VehicleAdmin.API.Controllers.CreateVehicleBulkCmdExample.GetExamples">
+             <summary>
+            Create Bulk vehicles example
+             </summary>  
+        </member>
+        <member name="T:VehicleAdmin.API.Infrastructure.ActionResults.InternalServerErrorObjectResult">
+             <summary>
+            internal server error status codes
+             </summary>  
+        </member>
+        <member name="M:VehicleAdmin.API.Infrastructure.ActionResults.InternalServerErrorObjectResult.#ctor(System.Object)">
+             <summary>
+            custom status codes
+             </summary>  
+        </member>
+        <member name="T:VehicleAdmin.API.Infrastructure.AutofacModules.MediatorModule">
+             <summary>
+            Registering all mediatr commands
+             </summary>  
+        </member>
+        <member name="M:VehicleAdmin.API.Infrastructure.AutofacModules.MediatorModule.Load(Autofac.ContainerBuilder)">
+             <summary>
+            registering dependencies
+             </summary>  
+        </member>
+        <member name="T:VehicleAdmin.API.Infrastructure.Filters.HttpGlobalExceptionFilter">
+             <summary>
+            exception filters
+             </summary>  
+        </member>
+        <member name="M:VehicleAdmin.API.Infrastructure.Filters.HttpGlobalExceptionFilter.#ctor(Microsoft.AspNetCore.Hosting.IHostingEnvironment,Microsoft.Extensions.Logging.ILogger{VehicleAdmin.API.Infrastructure.Filters.HttpGlobalExceptionFilter})">
+             <summary>
+            constructor injection
+             </summary>  
+        </member>
+        <member name="M:VehicleAdmin.API.Infrastructure.Filters.HttpGlobalExceptionFilter.OnException(Microsoft.AspNetCore.Mvc.Filters.ExceptionContext)">
+             <summary>
+            custom handler
+             </summary>  
+        </member>
+    </members>
+</doc>

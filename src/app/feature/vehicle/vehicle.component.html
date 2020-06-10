@@ -1,0 +1,89 @@
+<style>
+  .container {
+  margin-top: 30px;
+}
+
+input.ng-invalid.ng-touched {
+  border: 1px solid red
+}
+.control-label.required:after {
+  color: #d00;
+  content: "*";
+  position: absolute;
+  margin-left: 5px;
+}
+
+</style>
+<div>
+
+  <table class="table table-striped">
+    <thead>
+    <tr>
+      <th  scope="col">Create New Vehicle</th>   
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+      <td>
+        <form  (ngSubmit)="onSubmit()" [formGroup]="form">
+          <table class="table table-striped">
+            <thead>
+            <tr>
+             
+            </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td *ngFor="let question of questions">
+                            <app-question [question]="question" [form]="form"></app-question>
+                </td>
+                 <br/>
+                 <table>
+                  <tr>
+                     <td>
+                                
+                                  <button class="btn btn-primary" type="submit" [disabled]="!form.valid">Add</button> 
+                                  <button class="btn btn-primary" type="button" style="margin-left: 5px" (click)='cancel()'>Cancel</button>
+                            
+                                
+                       </td>      
+                  </tr>           
+              </table>
+             </tr>
+            </tbody>
+          </table>         
+        </form>
+          
+      </td> 
+       
+    </tr> 
+    </tbody>
+  </table>
+ <h5>Vehicle List:</h5>
+  <table class="table table-striped">
+    <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Make</th>
+      <th scope="col">Category</th>
+      <th scope="col">VehicleType</th>
+      <th scope="col">Vehicle Properties</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr *ngFor="let vehicle of vehicles$ | async; index as i">
+      <th scope="row">{{ i + 1 }}</th>
+      <td> 
+        {{ vehicle.make }}
+      </td>
+      <td>   {{ vehicle.category }}</td>
+      <td> {{ vehicle.vehicleType }}</td>
+      <td>  
+        <div [innerHTML]='vehicle.vehicleProperty'></div>
+      </td>
+    </tr>
+    </tbody>
+  </table>
+
+  
+</div>

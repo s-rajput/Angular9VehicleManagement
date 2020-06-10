@@ -1,0 +1,52 @@
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/api/{everything}",
+      "ServiceName": "vehicles",
+      "UpstreamPathTemplate": "/api/vehicles/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post" ],
+      "SwaggerKey": "vehicles",
+      "FileCacheOptions": {
+        "TtlSeconds": 1,
+        "Region": "somename"
+      },
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      },       
+      "HttpHandlerOptions": {
+        "UseTracing": true
+      },
+    }
+
+  ],
+  "SwaggerEndPoints": [
+    {
+
+      "Key": "vehicles",
+      "Config": [
+        {
+          "Name": "VehicleAdmin API",
+          "Version": "v1",
+          "Service": {
+            "Name": "vehicles",
+            "Path": "/swagger/v1/swagger.json"
+          }
+        }
+      ]
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost",
+    "RateLimitOptions": {
+      "DisableRateLimitHeaders": false,
+      "QuotaExceededMessage": "Your quota exceeded!",
+      "HttpStatusCode": 999,
+      "ClientIdHeader": "Test"
+    },
+    "ServiceDiscoveryProvider": {
+      "Type": "AppConfiguration",
+      "PollingIntervalSeconds": 10000
+    }
+  }
+}
+  

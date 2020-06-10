@@ -1,0 +1,14 @@
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\Services\VehicleAdmin\Application\VehicleAdmin.Application\bin\Debug\netcoreapp3.1\VehicleAdmin.Application.deps.json
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\Services\VehicleAdmin\Application\VehicleAdmin.Application\bin\Debug\netcoreapp3.1\VehicleAdmin.Application.dll
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\Services\VehicleAdmin\Application\VehicleAdmin.Application\bin\Debug\netcoreapp3.1\VehicleAdmin.Application.pdb
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\Services\VehicleAdmin\Application\VehicleAdmin.Application\bin\Debug\netcoreapp3.1\VehicleAdmin.DomainCore.dll
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\Services\VehicleAdmin\Application\VehicleAdmin.Application\bin\Debug\netcoreapp3.1\VehicleAdmin.Infrastructure.dll
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\Services\VehicleAdmin\Application\VehicleAdmin.Application\bin\Debug\netcoreapp3.1\VehicleAdmin.DomainCore.pdb
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\Services\VehicleAdmin\Application\VehicleAdmin.Application\bin\Debug\netcoreapp3.1\VehicleAdmin.Infrastructure.pdb
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\Services\VehicleAdmin\Application\VehicleAdmin.Application\obj\Debug\netcoreapp3.1\VehicleAdmin.Application.csprojAssemblyReference.cache
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\Services\VehicleAdmin\Application\VehicleAdmin.Application\obj\Debug\netcoreapp3.1\VehicleAdmin.Application.csproj.CoreCompileInputs.cache
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\Services\VehicleAdmin\Application\VehicleAdmin.Application\obj\Debug\netcoreapp3.1\VehicleAdmin.Application.AssemblyInfoInputs.cache
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\Services\VehicleAdmin\Application\VehicleAdmin.Application\obj\Debug\netcoreapp3.1\VehicleAdmin.Application.AssemblyInfo.cs
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\Services\VehicleAdmin\Application\VehicleAdmin.Application\obj\Debug\netcoreapp3.1\VehicleAdmin.Application.csproj.CopyComplete
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\Services\VehicleAdmin\Application\VehicleAdmin.Application\obj\Debug\netcoreapp3.1\VehicleAdmin.Application.dll
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\Services\VehicleAdmin\Application\VehicleAdmin.Application\obj\Debug\netcoreapp3.1\VehicleAdmin.Application.pdb

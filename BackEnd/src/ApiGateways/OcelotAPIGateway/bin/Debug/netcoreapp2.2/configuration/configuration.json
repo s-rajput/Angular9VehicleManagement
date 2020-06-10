@@ -1,0 +1,55 @@
+{
+  "ReRoutes": [
+
+    {
+      "DownstreamPathTemplate": "/api/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 3000
+        } 
+      ],
+      "FileCacheOptions": {
+        "TtlSeconds": 1,
+        "Region": "somename"
+      },
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      },
+
+      "HttpHandlerOptions": {
+        "UseTracing": true
+      },
+      "UpstreamPathTemplate": "/api/VehicleAdmin/{everything}",
+      "UpstreamhttpsMethod": [ "POST", "PUT", "GET" ],
+      "DangerousAcceptAnyServerCertificateValidator": false,
+      "SwaggerKey": "VehicleAdmin" 
+    }
+
+  ],
+  "SwaggerEndPoints": [
+    {
+      "Key": "VehicleAdmin",
+      "Config": [
+        {
+          "Name": "VehicleAdmin API",
+          "Version": "v1",
+          "Url": "http://localhost:3000/swagger/v1/swagger.json"
+        }
+      ]
+    } 
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost",
+    "RequestIdKey": "OcRequestId",
+    "AdministrationPath": "/administration",
+    "RateLimitOptions": {
+      "DisableRateLimitHeaders": false,
+      "QuotaExceededMessage": "Your quota exceeded!",
+      "HttpStatusCode": 999,
+      "ClientIdHeader": "Test"
+    }
+  }
+}
+  

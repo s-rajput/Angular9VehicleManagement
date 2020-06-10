@@ -1,0 +1,9 @@
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\Services\VehicleAdmin\DomainModel\VehicleAdmin.DomainCore\bin\Debug\netcoreapp2.1\VehicleAdmin.DomainCore.deps.json
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\Services\VehicleAdmin\DomainModel\VehicleAdmin.DomainCore\bin\Debug\netcoreapp2.1\VehicleAdmin.DomainCore.dll
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\Services\VehicleAdmin\DomainModel\VehicleAdmin.DomainCore\bin\Debug\netcoreapp2.1\VehicleAdmin.DomainCore.pdb
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\Services\VehicleAdmin\DomainModel\VehicleAdmin.DomainCore\obj\Debug\netcoreapp2.1\VehicleAdmin.DomainCore.csproj.CoreCompileInputs.cache
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\Services\VehicleAdmin\DomainModel\VehicleAdmin.DomainCore\obj\Debug\netcoreapp2.1\VehicleAdmin.DomainCore.AssemblyInfoInputs.cache
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\Services\VehicleAdmin\DomainModel\VehicleAdmin.DomainCore\obj\Debug\netcoreapp2.1\VehicleAdmin.DomainCore.AssemblyInfo.cs
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\Services\VehicleAdmin\DomainModel\VehicleAdmin.DomainCore\obj\Debug\netcoreapp2.1\VehicleAdmin.DomainCore.dll
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\Services\VehicleAdmin\DomainModel\VehicleAdmin.DomainCore\obj\Debug\netcoreapp2.1\VehicleAdmin.DomainCore.pdb
+C:\work\Personal\Vehicle\VehicleManagmentBackEnd\src\Services\VehicleAdmin\DomainModel\VehicleAdmin.DomainCore\obj\Debug\netcoreapp2.1\VehicleAdmin.DomainCore.csprojAssemblyReference.cache
